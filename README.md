@@ -1,5 +1,9 @@
-# MyFirstRepository
+# 19173075 박채현
 
-Hello my name is HanGyeol
+## 1주차과제
 
- 
+## 2주차과제
+
+## 3주차과제
+<img width="height""src"./png/1.PNG"><img>
+<img width="height""src"./png/2.PNG"><img>
