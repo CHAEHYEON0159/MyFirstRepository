@@ -6,7 +6,7 @@
 
 ## 3주차과제
 
-<img width="" height="" src"./png/1.png"></img>
+<img"src"./png/1.png"></img>
 
-<img width="" height="" src"./png/2.png"></img>
+<img"src"./png/2.png"></img>
 
