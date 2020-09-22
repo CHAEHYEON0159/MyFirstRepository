@@ -8,4 +8,4 @@
 
 <img"src"./png/1.PNG"></img>
 
-<img"src"./Png/2.PNG"></img>
+<img"src"./png/2.PNG"></img>
