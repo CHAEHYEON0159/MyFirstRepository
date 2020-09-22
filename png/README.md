@@ -5,8 +5,6 @@
 ## 2주차과제
 
 ## 3주차과제
-
-<img"src"./png/1.png"></img>
-
-<img"src"./png/2.png"></img>
+   <img src="./png/1.PNG"></img>
+   <img src="./png/2.PNG"></img>
 
