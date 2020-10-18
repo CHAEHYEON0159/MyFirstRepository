@@ -19,5 +19,4 @@
        
        
 ## 7주차과제
-   <img src="./png/3.PNG"></img>
-   <img src="./png/4.PNG"></img>
+
