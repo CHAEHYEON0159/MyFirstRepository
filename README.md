@@ -31,4 +31,6 @@
    <img src="./png/15.PNG"></img>
    <img src="./png/16.PNG"></img>
    <img src="./png/17.PNG"></img>
+   <img src="./png/18.PNG"></img>
+   
 - 용량 부족으로 앱이 실행이 불가해서 급하게 캡쳐로 제출합니다 죄송합니다 . 빠른 시일안에 수정하겠습니다
